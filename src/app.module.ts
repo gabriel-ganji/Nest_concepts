@@ -10,4 +10,3 @@ import { ConceptsAutomaticModule } from './concepts-automatic/concepts-automatic
   providers: [AppService],
 })
 export class AppModule {}
- 
